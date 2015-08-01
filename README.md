@@ -92,7 +92,7 @@ Input:
 
 Parameter | Description | Value
 --- | --- | ---
-links-to-protect | The links you wish to protect, separated by line breaks (MANDATORY). | URL
+links-to-protect | The links you wish to protect, separated by line breaks or "%0A" (MANDATORY). | URL
 enable-captcha | Enable or disable CAPTCHA. | 'on' or 'no'
 captcha-type | Choose your CAPTCHA alternative technology. | 'recaptcha' or 'fancy+captcha'
 link-password | Set a password to your package. | Input
