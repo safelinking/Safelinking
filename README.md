@@ -6,6 +6,10 @@ Welcome to the official Github account of Safelinking link protection services. 
 Changelog
 ---
 
+27-02-2016: 3.0.0
+* Stable and working link checker.
+* API updated.
+
 24-05-2015: 3.0.0
 * Launching the new version.
 
@@ -97,6 +101,7 @@ enable-captcha | Enable or disable CAPTCHA. | 'on' or 'no'
 captcha-type | Choose your CAPTCHA alternative technology. | 'recaptcha' or 'fancy+captcha'
 link-password | Set a password to your package. | Input
 link-description | Set a description to your package. | Input
+title | The title of your link package. | Input
 provider-name | The name of your website or community. | Input
 provider-url | The URL of your website or community. | URL
 rsdf | Generate a RSDF container file. | on
