@@ -6,6 +6,11 @@ Welcome to the official Github account of Safelinking link protection services. 
 Changelog
 ---
 
+25-03-2016: 3.1.0
+* Better link checker.
+* Statistics crawled.
+* Debugged some UI/UX.
+
 27-02-2016: 3.0.0
 * Stable and working link checker.
 * API updated.
